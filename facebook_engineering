@@ -22,8 +22,28 @@ Summary: trending in large scale systems.
 =============
 Article: Migrating Messenger storage to optimize performance
 Summary: 
+- old: old data schema, HBase, spinning disk
+  new: new data schema, MyRocks, SSD
+  Both: Iris queue
 
+- Migration Flow: 
+Normal: using mark of last data point and double writing(state machine)
+also using monitoring tools, data and API validation, 
+providing a revert plan
+Buffered: the account without quite time, like company automatic bot
+pick a cutoff time, create a snapshot of old data, new data queued to Iris, copy old data to MyRocks. then process queued data, and start double writing.
+
+- Scale: 
+Bistro Framework, parallelize the work.
+
+- Benefits:
+better data compression(MyRocks with Zstandard)
+better disaster recovery
+better read/write(Lighting with flash storage)
+easy to add new feature
 =============
+
+
 =============
 =============
 =============
