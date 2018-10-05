@@ -1,0 +1,32 @@
+Notes : https://code.fb.com/#
+=============
+Article: Under the hood: Facebook Marketplace powered by artificial intelligence
+Summary: Marketplace has two major players: Buyer and Seller.
+AI can power and boost the experience of them. 
+Buyer
+- recommend according to typed text, previous search history, buying history, location, or other tags(tokens)
+- recommend if your willing stuff is sold or gone. Search similarity according to your willing stuff.
+- Simple interaction with AI assitant, M. Like if the thing is still available.
+
+Seller: 
+- Understand the text decription and uploaded photos to create more accurate categaries, keywords and index.
+- Detect the mismatch of the object description and the object photos.
+
+=============
+Article: 2018 @Scale Conference recap
+Summary: trending in large scale systems.
+- AI/ML: hardware, infra,
+- Data: fast SQL, DB like CDN, 
+- Tools: resource management, static analysis, large testing
+
+=============
+Article: Migrating Messenger storage to optimize performance
+Summary: 
+
+=============
+=============
+=============
+=============
+=============
+=============
+=============
