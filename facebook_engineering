@@ -42,10 +42,19 @@ better disaster recovery
 better read/write(Lighting with flash storage)
 easy to add new feature
 =============
+Article: Facebook accelerates AI development with new partners and production capabilities for PyTorch 1.0
+Summary: 
+- PyTorch, an AI framework on multi-platforms
+
+=============
+Article: Under the hood: Multilingual embeddings
+Summary: 
 
 
 =============
-=============
+Article: Spiral: Self-tuning services via real-time machine learning
+Summary: 
+- Spiral, a small, embedded C++ library with very few dependencies
 =============
 =============
 =============

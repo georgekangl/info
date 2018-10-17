@@ -1,0 +1,17 @@
+
+BACKGROUND
+========================================
+machine learning vs deep learning
+
+ML - Algorithms that parse data, learn from that data, and then apply what they’ve learned to make informed decisions
+DL - In practical terms, deep learning is just a subset of machine learning. 
+with a deep learning model, the algorithms can determine on their own if a prediction is accurate or not.
+deep learning uses a layered structure of algorithms called an artificial neural network (ANN).
+
+
+ACADAMIC
+========================================
+
+
+ENGINEERING
+========================================
