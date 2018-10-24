@@ -15,3 +15,12 @@ ACADAMIC
 
 ENGINEERING
 ========================================
+AWS SageMaker
+
+Brief Intro
+- ML: teach a computer to make prediction or inference.
+- 	generate model data and 
+	train a model and 
+	generate inference in real time
+- Machine learning is a continuous cycle.
+??? what is ground truth?
