@@ -24,3 +24,10 @@ Brief Intro
 	generate inference in real time
 - Machine learning is a continuous cycle.
 ??? what is ground truth?
+
+Preparation
+- IAM, S3 bucket
+- sagemaker notebook instance, using Jupyter Notebook
+- Jupyter Notebook: 
+	The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. Uses include: data cleaning and transformation, numerical simulation, statistical modeling, data visualization, machine learning, and much more.
+
